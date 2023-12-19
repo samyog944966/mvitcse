@@ -1,0 +1,53 @@
+[33mcommit a1eb5b3fe9e472ed5b78671996e9a6c33b109f2a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: samyog gowda <samyog944966@gmail.com>
+Date:   Tue Dec 19 11:42:54 2023 +0530
+
+    this is my python project
+
+[1mdiff --git a/2.py b/2.py[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f51a85d[m
+[1m--- /dev/null[m
+[1m+++ b/2.py[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32mprint("enter your name")[m
+[32m+[m
+
+[33mcommit 20c4354d7873f9a852232e6439c221ef7bda8caa[m
+Author: samyog gowda <samyog944966@gmail.com>
+Date:   Tue Dec 19 11:40:04 2023 +0530
+
+    this is my first commit
+
+[1mdiff --git a/1.txt b/1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..cb0a0ab[m
+[1m--- /dev/null[m
+[1m+++ b/1.txt[m
+[36m@@ -0,0 +1,4 @@[m
+[32m+[m[32mThis is git workshop[m
+[32m+[m[32msecond line[m
+[32m+[m[32mmvit[m
+[32m+[m[32mits kalanjali bro[m
+[1mdiff --git a/2.txt b/2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d6f289d[m
+[1m--- /dev/null[m
+[1m+++ b/2.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32msamyog gowda[m
+[1mdiff --git a/3.txt b/3.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c9fd0cd[m
+[1m--- /dev/null[m
+[1m+++ b/3.txt[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32msamyog[m
+[32m+[m
+[1mdiff --git a/5.txt b/5.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..54de89b[m
+[1m--- /dev/null[m
+[1m+++ b/5.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m#its kalanjali bro[m
